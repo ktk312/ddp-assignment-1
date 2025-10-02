@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = "http://localhost:8080"   
+BASE_URL = "https://rpc-server-assignment-production.up.railway.app"   
 
 
 def add(x: int, y: int) -> dict:  
